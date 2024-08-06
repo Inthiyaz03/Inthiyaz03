@@ -1,4 +1,5 @@
 🌟 Hi There! I'm Inthiyaz Shaik 🌟
+
 Welcome to my GitHub profile! I’m a passionate Java Developer and Full Stack Web Developer with a strong foundation in programming and a love for creating impactful solutions. Here’s a glimpse into my world of coding and technology.
 
 🚀 About Me
