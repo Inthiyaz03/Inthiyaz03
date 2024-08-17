@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate Java Developer and Full Stack W
 
 🚀 About Me
 
-🔭 Currently working on: Enhancing my skills in Java and exploring new technologies.
+🔭 Currently working on : Enhancing my skills in Java and exploring new technologies.
 
 🌱 Learning: Advancing my knowledge in Full Stack Development, exploring new Java frameworks, and diving into Generative AI.
 
@@ -12,8 +12,11 @@ Welcome to my GitHub profile! I’m a passionate Java Developer and Full Stack W
 
 
 🔧 Technologies & Tools
-Languages: Java, HTML, CSS, JavaScript
+
+Languages: Java, HTML, CSS
+
 Databases: MySQL, Oracle
+
 Tools: Git, GitHub, VS Code
 
 
