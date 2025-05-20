@@ -70,6 +70,7 @@
 - ✅ Java Full Course – Besant Technologies
 
 ---
+![snake gif](https://github.com/Inthiyaz03/Inthiyaz03/blob/output/github-snake-dark.svg)
 
 ### 📫 Let's Connect
 
