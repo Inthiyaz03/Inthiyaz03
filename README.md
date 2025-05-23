@@ -13,7 +13,7 @@
 
 🎓 **B.Tech in Mechanical Engineering**, JNTUA College of Engineering Kalikiri  
 💼 Passionate Full Stack Developer with experience in:
-- Backend: `Java`, `Spring Boot`, `Hibernate`, `Django`, `MySQL`
+- Backend: `Java`, `Spring Boot`, `Hibernate`,`Python`, `Django`, `MySQL`
 - Frontend: `React`, `Material UI`, `HTML`, `CSS`, `JavaScript`
 - Tools: `Git`, `Postman`, `Vite`, `VS Code`, `Eclipse`
 
