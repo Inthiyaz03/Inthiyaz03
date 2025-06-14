@@ -9,6 +9,7 @@
 
 ---
 
+
 ### 🧠 About Me
 
 🎓 **B.Tech in Mechanical Engineering**, JNTUA College of Engineering Kalikiri  
@@ -71,6 +72,10 @@
 
 ---
 ![snake gif](https://github.com/Inthiyaz03/Inthiyaz03/blob/output/github-snake-dark.svg)
+
+## 🚀 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inthiyaz03&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 
