@@ -61,17 +61,17 @@ I am a backend-heavy Full Stack Developer and Architect focused on designing hig
 
 ### 🚀 Production Deployments // Notable Projects
 
-#### 🛒 ZapCart / All In Services Ecosystem
+#### 🛒 ZapCart Ecosystem
 > *A highly scalable multi-service backend handling independent business entities.*
 *   **Tech:** FastAPI, React, PostgreSQL, Redis
 *   **Architecture:** Engineered custom phone number verification logic, dynamic entity separation (Grocery, Laundry, Repairs), address intelligence, refresh token rotation, and complex API routing.
 
-#### 🎓 JNTUACEA Web Portal
+#### 🎓 College Web Portal
 > *A premium CMS and administrative dashboard built for university management.*
 *   **Tech:** React, FastAPI, PostgreSQL
 *   **Architecture:** Developed a centralized Admin Portal, a dynamic news/notice ticker, advanced PDF handling, and role-based access for academic staff.
 
-#### 🎬 Mavya Creations Production House Website
+#### Production House Website
 > *A visually striking web presence for a production studio.*
 *   **Tech:** React, CSS3, Modern Web APIs
 *   **Architecture:** Focused heavily on premium UI/UX, integrating interactive splash screens, cinematic animations, and 3D elements to match an Awwwards-tier aesthetic.
@@ -86,23 +86,18 @@ I am a backend-heavy Full Stack Developer and Architect focused on designing hig
 ### 📡 Telemetry // GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inthiyaz03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" alt="GitHub Stats" width="48%" />
+  <!-- Replaced github-readme-stats.vercel.app with the reliable extended mirror -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Inthiyaz03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" alt="GitHub Stats" width="48%" />
+  
+  <!-- Streak stats usually stay online, left as is -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inthiyaz03&theme=react&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inthiyaz03&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676" alt="Top Languages" width="50%" />
-</div>
-
-<div align="center">
-  <!-- Ensure GitHub Actions is setup for the snake animation for this to render -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inthiyaz03/Inthiyaz03/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inthiyaz03/Inthiyaz03/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Inthiyaz03/Inthiyaz03/output/github-snake.svg">
-  </picture>
+  <!-- Replaced the top-langs URL with the extended mirror -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Inthiyaz03&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676" alt="Top Languages" width="50%" />
 </div>
 
 ---
