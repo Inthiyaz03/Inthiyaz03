@@ -1,113 +1,103 @@
-<!-- Premium GitHub Profile README -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Inthiyaz%20Shaik&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Backend%20Developer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descAlignY=55&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=250&section=header&text=Inthiyaz%20Shaik&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20FastAPI%20%7C%20React&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <p align="center">
   <a href="https://inthiyaz-shaik-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=FastAPI+%7C+Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Scalable+Backend+APIs;AWS+%7C+Docker+%7C+CI%2FCD+%7C+AI+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=%3E_Building+Scalable+Backend+Ecosystems;%3E_Crafting+Cinematic+UI%2FUX+Experiences;%3E_FastAPI+%7C+PostgreSQL+%7C+React+%7C+Redis;%3E_Designing+Intelligent+AI+Integrations" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:inthiyaz.shaik9346@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/inthiyaz-shaik-web-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://inthiyaz-shaik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:inthiyaz.shaik9346@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/inthiyaz-shaik-web-developer"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+  <a href="https://inthiyaz-shaik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00E676" alt="Portfolio" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 👾 System Initialization // About Me
 
-I am a backend-focused Full Stack Developer who specializes in designing scalable systems, building secure REST APIs, and integrating AI into cloud-native applications. I appreciate cinematic, Awwwards-level UI/UX just as much as a perfectly optimized database query. 
+I am a backend-heavy Full Stack Developer and Architect focused on designing highly scalable multi-service platforms and premium web experiences. I bridge the gap between heavy-duty server architecture and **cinematic, Awwwards-level UI/UX**, utilizing concepts like glassmorphism and high-performance scrolling.
 
-**My primary focus areas include:**
-- 🔐 **Secure Backend Development:** JWT, OTP authentication, and role-based access control.
-- ⚡ **Scalable Systems:** Building microservices and API ecosystems that can handle complex data flow.
-- ☁️ **Cloud & Deployment:** Containerizing applications and managing database-driven platforms.
-- 🤖 **AI Integrations:** Bringing intelligent, automated solutions into web applications.
+**Core Directives:**
+- 🔐 **Zero-Trust Security:** JWT, OTP authentication, and complex RBAC matrices.
+- ⚡ **High-Performance Architecture:** Fast data flow via FastAPI, Redis caching, and robust PostgreSQL schemas.
+- 🎬 **Premium Frontends:** Building immersive web apps with cinematic animations and 3D elements.
+- 🤖 **AI Integration:** Embedding generative AI directly into cloud-native ecosystems.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 💻 Tech Stack & Arsenal
 
 **Backend & Databases**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,py,java,postgres,mysql,sqlite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=fastapi,py,java,spring,django,postgres,mysql,redis,sqlite&perline=15" />
 </p>
 
-**Frontend & Design**  
+**Frontend & UI/UX**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,js,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,js,html,css,figma&perline=15" />
 </p>
 
-**Cloud, DevOps & Tools**  
+**DevOps & Infrastructure**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,idea&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,idea&perline=15" />
 </p>
 
 ---
 
-### 🏛️ Architecture & Capabilities
+### 🏛️ Engineering Capabilities
 
-| Backend Development | Frontend & Integrations | DevOps & Workflow |
+| ⚙️ Backend Architecture | 🎨 Frontend & UI/UX | 🛠️ DevOps & Operations |
 | :--- | :--- | :--- |
-| ✔️ REST APIs & Microservices | ✔️ React Context & State Mgmt | ✔️ Feature Branching (Git) |
-| ✔️ JWT & OTP Authentication | ✔️ Dynamic Dashboards | ✔️ Postman API Testing |
-| ✔️ Role-Based Access (RBAC) | ✔️ Awwwards-Level UI/UX | ✔️ Database Migrations |
-| ✔️ Complex Database Design | ✔️ AI Model Integration | ✔️ CI/CD Pipelines |
-| ✔️ Secure File Uploads | ✔️ Payment Gateway Setup | ✔️ Clean Architecture |
+| `REST APIs & Microservices` | `Cinematic & 3D Elements` | `CI/CD Pipelines` |
+| `Custom Serviceability Engines`| `React Context & State Mgmt`| `Database Migrations` |
+| `JWT / OTP Authentication` | `Dynamic Dashboards` | `Clean Architecture Setup`|
+| `Complex DB Schemas` | `Smooth Scrolling (Locomotive)`| `API Load Testing (Postman)`|
+| `AI Model Endpoints` | `Glassmorphism Design` | `Version Control Workflows`|
 
 ---
 
-### 🔨 Notable Projects
+### 🚀 Production Deployments // Notable Projects
 
 #### 🛒 ZapCart / All In Services Ecosystem
-*Multi-Service Platform (Grocery, Laundry, Services)*  
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-> A highly scalable multi-service ecosystem handling independent entities, phone number verification logic, and complex routing.
-*   **Features:** Custom Serviceability Engine, Address Intelligence, Refresh Token Rotation, Multi-device Sessions, and a comprehensive Admin Dashboard.
+> *A highly scalable multi-service backend handling independent business entities.*
+*   **Tech:** FastAPI, React, PostgreSQL, Redis
+*   **Architecture:** Engineered custom phone number verification logic, dynamic entity separation (Grocery, Laundry, Repairs), address intelligence, refresh token rotation, and complex API routing.
 
 #### 🎓 JNTUACEA Web Portal
-*University CMS & Admin Portal*  
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-> A premium administrative dashboard and content management system built for educational institutions.
-*   **Features:** Dynamic Notice/News Ticker, Advanced PDF Management, Secure Authentication, and a centralized Admin Portal.
+> *A premium CMS and administrative dashboard built for university management.*
+*   **Tech:** React, FastAPI, PostgreSQL
+*   **Architecture:** Developed a centralized Admin Portal, a dynamic news/notice ticker, advanced PDF handling, and role-based access for academic staff.
+
+#### 🎬 Mavya Creations Production House Website
+> *A visually striking web presence for a production studio.*
+*   **Tech:** React, CSS3, Modern Web APIs
+*   **Architecture:** Focused heavily on premium UI/UX, integrating interactive splash screens, cinematic animations, and 3D elements to match an Awwwards-tier aesthetic.
 
 #### 🧠 Smart Email Assistant
-*AI-Powered Productivity Tool*  
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
-> An intelligent Chrome Extension embedded directly into Gmail for real-time draft generation.
-*   **Features:** Real-time email drafting, RESTful backend endpoints, and Vite frontend integration.
+> *An AI-powered productivity tool embedded directly into the browser.*
+*   **Tech:** Spring Boot, React (Vite), Gemini AI API
+*   **Architecture:** Built a Chrome extension with real-time email drafting capabilities, powered by RESTful backend endpoints and generative AI.
 
 ---
 
-### 🌱 Currently Learning & Exploring
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-</p>
-
----
-
-### 🚀 GitHub Analytics
+### 📡 Telemetry // GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inthiyaz03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inthiyaz03&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Inthiyaz03&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inthiyaz03&theme=react&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inthiyaz03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inthiyaz03&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00E676" alt="Top Languages" width="50%" />
 </div>
 
 <div align="center">
-  <!-- Ensure you have GitHub Actions setup for the snake animation for this to render -->
+  <!-- Ensure GitHub Actions is setup for the snake animation for this to render -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inthiyaz03/Inthiyaz03/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inthiyaz03/Inthiyaz03/output/github-snake.svg">
@@ -117,14 +107,13 @@ I am a backend-focused Full Stack Developer who specializes in designing scalabl
 
 ---
 
-### ⚡ Fun Facts & Philosophy
+### ⚡ Offline Mode // Fun Facts
 
-- 🕵️‍♂️ I tackle complex backend logic with the same intensity as a high-stakes action thriller.
-- ⚙️ I believe clean code scales better and architecture is the foundation of great software.
-- 📈 I love designing scalable APIs and optimizing databases. 
-
-> *"Building software that is simple, scalable, and solves real problems."*
+- 🏗️ I tackle complex backend routing logic with the same intensity as a high-stakes action thriller.
+- 🥊 When I'm not coding, I'm probably watching heavy-hitting Korean action dramas like *Bloodhounds* or *Weak Hero Class 1*.
+- ⚙️ I believe clean code scales better, and system architecture is the true foundation of great software.
 
 <div align="center">
+  <p><i>"Building software that is simple, scalable, and solves real problems."</i></p>
   <img src="https://profile-counter.glitch.me/Inthiyaz03/count.svg" alt="Profile Views" />
 </div>
